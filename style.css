@@ -37,3 +37,33 @@ p span {
     font-weight: 700;
 
 }
+
+#line {
+    margin: 0 auto 16px;
+    border: 1px solid #ECEFF2;
+    width: 391px;
+
+}
+
+#footer {
+    margin: 64px auto 0;
+}
+
+a{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: #3F3D56;
+    text-decoration: none;
+}
+
+#footer a + a{
+    margin-left: 42px;
+}
+
+#wave {
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    right: 0;
+}
